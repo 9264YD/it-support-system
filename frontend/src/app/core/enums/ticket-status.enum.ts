@@ -1,0 +1,7 @@
+export enum TicketStatus {
+    PENDING = 'PENDING',
+    PROCESSING = 'PROCESSING',
+    REPAIRING = 'REPAIRING',
+    REPAIRED = 'REPAIRED',
+    FAILED = 'FAILED'
+}
